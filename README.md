@@ -1,11 +1,12 @@
 # ProSight
 
-- Prosight is an internal application that I worked on while at interning for The Normandy Group. Due to this project being internal I can not share the code but can describe some of the things I worked on!
+- Prosight is an internal application that I worked on while interning for The Normandy Group. Due to this project being internal I can not share the code but can describe some of the things I worked on!
+- Prosight is a project management software that encompasses time entry, project planning, expenses, time off, and managing users.
 
 - Prosight web: Angular
     - Developed bug fixes and feature implementations on their web version of prosight using javascript, typescript and an SQL database.
     - Implmented things like email notifications when an expense report is submitted or approved/ denied. Email based on User's role, submitting sends to managment, approval/ denial sends to user that submitted the report.
-    - Bug fixes that required SQL changes such as a user filter defaulting to unassigned rather than to the current user when an item is added on a page.
+    - Bug fixes that required SQL changes such as a user filter defaulting to unassigned rather than to the current user when an item is added on a project planning page.
     - UI fixes for thing such as scroll bars, removal/ deactivation of buttons based on parameters and general formatting. 
 
 - Prosight mobile: Flutter
