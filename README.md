@@ -11,6 +11,6 @@
 
 - Prosight mobile: Flutter
     - Developed their expenses page on their mobile version of prosight using dart and an SQL database
-    - Implemented CRUD operations for the expense page, ability to create expense reports, display them on the page, edit and delte them and submit for approval/ denial.
+    - Implemented CRUD operations for the expense page, ability to create expense reports, display them on the page, edit and delete them and submit for approval/ denial.
     - Developed the UI of the page to allow for screen taps to access details of each expense report and the ability to add, edit or delete details.
     - Displayed all relevent information per each expense report based on who the current user was, which report was selected and if details had been selected, while adhering to a user friendly interface.
